@@ -2,5 +2,5 @@
 
 export const environment = {
   production: true,
-  base_url: 'https://adminpro-backend.herokuapp.com/api'
+  base_url: 'https://backend-seg.herokuapp.com/api'
 };
